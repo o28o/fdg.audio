@@ -4,6 +4,7 @@ audiodir=/data/data/com.termux/files/usr/share/apache2/default-site/htdocs/asset
 nikaya=sn
 book=${nikaya}
 
+function move {
 cd $audiodir
 mv /storage/emulated/0/Download/*ogg ./
 ls *.ogg | awk -F'.' '{print "mkdir "substr($1,0,2)"/"$1" ; mv "$1"* "substr($1,0,2)"/"$1}' | sort -Vf | uniq > tmpmove
@@ -11,9 +12,8 @@ cat tmpmove
 echo "thus will be?"
 read
 bash tmpmove
+}
 
-echo check copy part
-read 
 for i in `cat tmpmove | awk -F'/' '{print $2}' | awk '{print $1}' | sort | uniq`
 do 
 ./check.sh $i
