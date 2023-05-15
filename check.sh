@@ -7,6 +7,11 @@ audiodir=/data/data/com.termux/files/usr/share/apache2/default-site/htdocs/asset
 book=$@
 nikaya=`echo $book | sed 's/[0-9]*//g'`
 	
+	if [[ $book =~ [0-9] ]];then
+	book=$book
+	else
+	book=
+	fi
 	
 function check {
   rm $audiodir/tmpcheck
