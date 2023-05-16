@@ -1,0 +1,14 @@
+mkdir sn/sn1 ; mv sn1* sn/sn1
+mkdir sn/sn2 ; mv sn2* sn/sn2
+mkdir sn/sn3 ; mv sn3* sn/sn3
+mkdir sn/sn8 ; mv sn8* sn/sn8
+mkdir sn/sn11 ; mv sn11* sn/sn11
+mkdir sn/sn13 ; mv sn13* sn/sn13
+mkdir sn/sn24 ; mv sn24* sn/sn24
+mkdir sn/sn34 ; mv sn34* sn/sn34
+mkdir sn/sn47 ; mv sn47* sn/sn47
+mkdir sn/sn48 ; mv sn48* sn/sn48
+mkdir sn/sn50 ; mv sn50* sn/sn50
+mkdir sn/sn52 ; mv sn52* sn/sn52
+mkdir sn/sn53 ; mv sn53* sn/sn53
+mkdir sn/sn55 ; mv sn55* sn/sn55
