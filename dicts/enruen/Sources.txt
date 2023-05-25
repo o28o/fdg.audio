@@ -1,0 +1,5 @@
+The En-Ru-En dictionaries were taken from http://traduko.lib.ru
+
+The speech dictionary (Speech.lsa) was made from the
+WyabdcRealPeopleTTS.tar.bz2 file, downloaded from
+http://stardict.sourceforge.net

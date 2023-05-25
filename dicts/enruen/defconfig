@@ -1,0 +1,66 @@
+<config>
+ <paths>
+  <path recursive="1" >%PROGRAMDIR%/content</path>
+ </paths>
+ <sounddirs/>
+ <groups nextId="4" >
+  <group icon="gb.png" id="1" name="Английский" >
+   <dictionary name="Apresyan (En-Ru)" >c8d45fd1354fb83aa7dd5bb9283a5892</dictionary>
+   <dictionary name="Speech" >c703b0575cb43d190b58313408db2535</dictionary>
+   <dictionary name="Английский (US) (морфология)" >37bd5685dea841225518de3811bc21c9</dictionary>
+  </group>
+  <group icon="ru.png" id="2" name="Русский" >
+   <dictionary name="Smirnitsky (Ru-En)" >8e36655ceba7642a6d4a44f94cec9278</dictionary>
+   <dictionary name="Русский (морфология)" >0407a1538321cc255411336b3e57480f</dictionary>
+  </group>
+  <group icon="wiki.png" id="3" name="Википедия" >
+   <dictionary name="Russian Wikipedia" >8e0c1c2b6821dab8bdba8eb869ca7176</dictionary>
+  </group>
+ </groups>
+ <hunspell dictionariesPath="%PROGRAMDIR%/content/morphology" >
+  <enabled>en_US</enabled>
+  <enabled>ru_RU</enabled>
+ </hunspell>
+ <mediawikis>
+  <mediawiki enabled="0" url="http://en.wikipedia.org/w" id="ae6f89aac7151829681b85f035d54e48" name="English Wikipedia" />
+  <mediawiki enabled="0" url="http://en.wiktionary.org/w" id="affcf9678e7bfe701c9b071f97eccba3" name="English Wiktionary" />
+  <mediawiki enabled="1" url="http://ru.wikipedia.org/w" id="8e0c1c2b6821dab8bdba8eb869ca7176" name="Russian Wikipedia" />
+  <mediawiki enabled="0" url="http://ru.wiktionary.org/w" id="b09947600ae3902654f8ad4567ae8567" name="Russian Wiktionary" />
+  <mediawiki enabled="0" url="http://de.wikipedia.org/w" id="a8a66331a1242ca2aeb0b4aed361c41d" name="German Wikipedia" />
+  <mediawiki enabled="0" url="http://de.wiktionary.org/w" id="21c64bca5ec10ba17ff19f3066bc962a" name="German Wiktionary" />
+  <mediawiki enabled="0" url="http://pt.wikipedia.org/w" id="96957cb2ad73a20c7a1d561fc83c253a" name="Portuguese Wikipedia" />
+  <mediawiki enabled="0" url="http://pt.wiktionary.org/w" id="ed4c3929196afdd93cc08b9a903aad6a" name="Portuguese Wiktionary" />
+ </mediawikis>
+ <preferences>
+  <interfaceLanguage>ru_RU</interfaceLanguage>
+  <newTabsOpenAfterCurrentOne>0</newTabsOpenAfterCurrentOne>
+  <newTabsOpenInBackground>1</newTabsOpenInBackground>
+  <enableTrayIcon>1</enableTrayIcon>
+  <startToTray>0</startToTray>
+  <closeToTray>1</closeToTray>
+  <autoStart>0</autoStart>
+  <enableMainWindowHotkey>1</enableMainWindowHotkey>
+  <mainWindowHotkey>Ctrl+F11, Ctrl+F11</mainWindowHotkey>
+  <enableClipboardHotkey>1</enableClipboardHotkey>
+  <clipboardHotkey>Ctrl+C, Ctrl+C</clipboardHotkey>
+  <enableScanPopup>1</enableScanPopup>
+  <startWithScanPopupOn>0</startWithScanPopupOn>
+  <enableScanPopupModifiers>0</enableScanPopupModifiers>
+  <scanPopupModifiers>0</scanPopupModifiers>
+  <scanPopupAltMode>0</scanPopupAltMode>
+  <scanPopupAltModeSecs>3</scanPopupAltModeSecs>
+  <pronounceOnLoadMain>1</pronounceOnLoadMain>
+  <pronounceOnLoadPopup>1</pronounceOnLoadPopup>
+  <audioPlaybackProgram></audioPlaybackProgram>
+  <proxyserver enabled="0" >
+   <type>0</type>
+   <host></host>
+   <port>3128</port>
+   <user></user>
+   <password></password>
+  </proxyserver>
+  <checkForNewReleases>1</checkForNewReleases>
+ </preferences>
+ <lastMainGroupId>1</lastMainGroupId>
+ <lastPopupGroupId>1</lastPopupGroupId>
+</config>
