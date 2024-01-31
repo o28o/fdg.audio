@@ -8,4 +8,5 @@ for i in `find . -name "an*" -type f | awk -F'/' '{print $NF }' | awk -F'_' '{pr
 cat sutta.out audio.out | sort -V | uniq -c | less | sort | awk '{print $1, $2}' | grep "^1" | awk '{print $2}' >missing.out 
 less missing.out  
 
-
+cat missing.out | while read line; do termux-open-url https://voice.suttacentral.net/scv/index.html?#/sutta?search=$line
+done
