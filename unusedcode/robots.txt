@@ -6,7 +6,8 @@ Allow: /assets/demo/
 Disallow: /scripts/
 Disallow: /assets/
 Disallow: /bw/
-Disallow: /bw/
+Disallow: /db/
+Disallow: /new/
 Disallow: /legacy.suttacentral.net/
 Disallow: /suttacentral.net/
 Disallow: /accesstoinsight.org/
