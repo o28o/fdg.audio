@@ -1,0 +1,11 @@
+StarDict's dict ifo file
+version=3.0.0
+wordcount=17807
+idxfilesize=370731
+bookname=Buddhist Hybrid Sanskrit Dictionary (Edgerton)
+sametypesequence=h
+author=Stardict and underlying TEI created by Simon Wiles, from the Cologne Edition.
+email=
+website=http://www.sanskrit-lexicon.uni-koeln.de/scans/BHSScan/2013/web/index.php
+description=<br>“Buddhist Hybrid Sanskrit Grammar and Dictionary, Vol II: Dictionary” by<br>Franklin Edgerton.<br>The source for this Stardict version is a TEI version<br>which I made from the Cologne 2013 XML edition.  The Cologne digitization is<br>licensed under a CC BY-NC-SA 3.0 licence<br>(http://creativecommons.org/licenses/by-nc-sa/3.0/). See<br>http://www.sanskrit-lexicon.uni-koeln.de/scans/BHSScan/2013/web/index.php<br>for more information.<br><br/><br><br/><br>This version created by:<br/><br>Simon Wiles (http://simonwiles.net/projects/bhsd/)<br>
+date=Jan. 2014

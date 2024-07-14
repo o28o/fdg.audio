@@ -1,0 +1,12 @@
+StarDict's dict ifo file
+version=3.0.0
+bookname=Critical Pāli Dictionary
+wordcount=29672
+synwordcount=3414
+idxfilesize=628739
+idxoffsetbits=32
+author=V. Trenckner et al.
+website=https://cpd.uni-koeln.de
+description=<h3>A Critical Pāli Dictionary</h3><p>by V. Trenckner, et al. Published by the Royal Danish Academy of Science and Letters, Copenhagen, 1925 -2011</p>The dictionary can be found online on the <a href='https://cpd.uni-koeln.de'>Cologne University</a> website</p><p>Encoded by Bodhirasa 2024.</p>
+date=2024-02-24T12:15:50
+sametypesequence=h
