@@ -1,0 +1,12 @@
+StarDict's dict ifo file
+version=3.0.0
+bookname=DPD Grammar
+wordcount=254004
+synwordcount=369290
+idxfilesize=5496556
+idxoffsetbits=32
+author=Bodhirasa
+website=thtps://digitalpalidictionary.github.io/grammardict.html
+description=<h3>DPD Grammar</h3><p>A table of all the gramamtical possibilities that a particular inflected word may have. For more information please visit the <a href='https://digitalpalidictionary.github.io/grammardict.html' target='_blank'>DPD website</a></p>
+date=2024-03-24T13:09:33
+sametypesequence=h

@@ -1,0 +1,11 @@
+StarDict's dict ifo file
+version=3.0.0
+bookname=Simsapa Combined Pali-English Dictionary
+wordcount=27339
+synwordcount=29613
+idxfilesize=521794
+idxoffsetbits=32
+website=https://simsapa.github.io/
+description=<h3>Simsapa Combined Pali-English Dictionary</h3><p>Nyanatiloka's Buddhist Dictionary</p><p>Dictionary of Pali Proper Names (DPPN)</p><p>New Concise Pali - English Dictionary (NCPED)</p><p>Pali Text Society Pali - English Dictionary (PTS)</p><p>Reformatted for the <a href='https://github.com/simsapa/simsapa'>Simsapa Dhamma Reader.</a></p><p>Encoded by Bodhirasa 2024.</p>
+date=2024-02-24T12:18:13
+sametypesequence=h
